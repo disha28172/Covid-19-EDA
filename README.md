@@ -96,25 +96,10 @@ images/
 │── scatter_plot.png
 ```
 
-Example:
-
-```markdown
-## Line Plot
-
-![Line Plot](images/line_plot.png)
-
-## Heatmap
-
-![Heatmap](images/heatmap.png)
-
-## Pairplot
-
-![Pairplot](images/pairplot.png)
-```
 
 ---
 
-## 📋 Project Structure
+##  Project Structure
 
 ```
 COVID-EDA/
