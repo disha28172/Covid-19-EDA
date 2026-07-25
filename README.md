@@ -115,41 +115,7 @@ COVID-EDA/
 │     └── bar_chart.png
 ```
 
----
 
-## Installation
-
-Clone this repository
-
-```bash
-git clone https://github.com/yourusername/COVID-EDA.git
-```
-
-Move into the project directory
-
-```bash
-cd COVID-EDA
-```
-
-Install required libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn
-```
-
-Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-Open
-
-```
-Covid-EDA(Notebook).ipynb
-```
-
----
 
 ##  Key Findings
 
